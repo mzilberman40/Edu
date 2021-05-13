@@ -1,0 +1,9 @@
+DEBUG:root:Msg for logger
+INFO:root:Msg for logger
+WARNING:root:Msg for logger
+ERROR:root:Msg for logger
+CRITICAL:root:Msg for logger
+2021-05-10 21:01:09,485 - DEBUG - app_logger - Hello from my logger
+2021-05-10 21:08:20,807 - DEBUG - app_logger - Hello from my logger
+2021-05-10 21:09:21,098 - DEBUG - app_logger - Hello from my logger
+2021-05-10 21:09:42,566 - DEBUG - app_logger - Hello from my logger
